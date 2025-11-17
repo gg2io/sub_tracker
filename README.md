@@ -308,7 +308,3 @@ subscription_tracker/
 - Category-based spending analysis with pie chart
 - Historical spending trends with bar charts
 - Month-over-month comparisons
-
-## License
-
-MIT
