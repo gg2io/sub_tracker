@@ -1,0 +1,21 @@
+date,description,amount,currency,merchant,payment_method
+2025-01-15,Netflix Subscription,-12.99,GBP,Netflix,Visa *1234
+2025-01-14,Spotify Premium,-9.99,GBP,Spotify,Mastercard *5678
+2025-01-10,Adobe Creative Cloud,-49.99,GBP,Adobe,Visa *1234
+2025-01-08,YouTube Premium,-11.99,GBP,YouTube,Mastercard *5678
+2025-01-05,Amazon Prime,-8.99,GBP,Amazon,Visa *1234
+2025-01-03,Disney Plus,-7.99,GBP,Disney,Visa *1234
+2024-12-28,Dropbox Plus,-9.99,GBP,Dropbox,Mastercard *5678
+2024-12-25,GitHub Pro,-5.00,GBP,GitHub,Visa *1234
+2024-12-20,ChatGPT Plus,-16.00,GBP,OpenAI,Mastercard *5678
+2024-12-18,Microsoft 365,-5.99,GBP,Microsoft,Visa *1234
+2024-12-15,Netflix Subscription,-12.99,GBP,Netflix,Visa *1234
+2024-12-14,Spotify Premium,-9.99,GBP,Spotify,Mastercard *5678
+2024-12-10,Adobe Creative Cloud,-49.99,GBP,Adobe,Visa *1234
+2024-12-08,YouTube Premium,-11.99,GBP,YouTube,Mastercard *5678
+2024-12-05,Amazon Prime,-8.99,GBP,Amazon,Visa *1234
+2024-11-28,Dropbox Plus,-9.99,GBP,Dropbox,Mastercard *5678
+2024-11-25,GitHub Pro,-5.00,GBP,GitHub,Visa *1234
+2024-11-20,ChatGPT Plus,-16.00,GBP,OpenAI,Mastercard *5678
+2024-11-18,Microsoft 365,-5.99,GBP,Microsoft,Visa *1234
+2024-11-15,Netflix Subscription,-12.99,GBP,Netflix,Visa *1234
